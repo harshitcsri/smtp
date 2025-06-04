@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build output
+.next/
+
+# Parcel cache
+.cache/
+
+# VS Code settings
+.vscode/
+
+# macOS and Linux system files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# PM2 logs
+.pids
+.pm2
+
+# IDE folders
+.idea/
+*.iml
